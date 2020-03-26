@@ -3,8 +3,8 @@ package allBooks;
 public class NamingConvention {
 
 	public static void main(String[] args) {
-
-		System.out.println();
+		int number = 6;
+		System.out.println("The number you entered is " + number);
 
 	}
 

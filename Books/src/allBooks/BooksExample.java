@@ -10,7 +10,7 @@ public class BooksExample {
 
 		String userName = myObj.nextLine(); // Read user input
 		System.out.println("Username is: " + userName); // Output user input
-
+		System.out.println();
 	}
 
 }
